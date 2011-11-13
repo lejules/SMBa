@@ -1,0 +1,6 @@
+SMB est un projet libre de Suivi des Matchs de Basket
+
+Il permet de suivre un match et de paramétrer un site de publication qui met à jour
+régulièrement pour permettre le suivi à distance du match
+
+(cl) 2011 Julien JOCAL

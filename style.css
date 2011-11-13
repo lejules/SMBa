@@ -1,0 +1,14 @@
+root {display: block;}
+.bouton{border:1px solid blue;background-color: lightskyblue;cursor: pointer;}
+.lien{color:blue;cursor: pointer;}
+.table{border:1px solid blue;}
+.table td,tr{border:1px solid blue;padding: 5px 5px 5px 5px;}
+.i{background-color: silver;}
+.p{background-color: white;}
+.red{font-weight: bold;color: red;}
+.droite{position: absolute;margin-left: 51%;}
+.gauche{width: 49%;}
+m40{margin-left: 40%;}
+m50{margin-left: 50%;}
+.table{border: 2px solid blue;}
+.table td{border: 1px solid blue;}
