@@ -1,0 +1,11 @@
+SMBa est une petite application de Suivi des Matchs de Basket.
+
+Il permet de faire des statistiques basiques (tirs, rebonds, BP, assists, ...)
+quart-temps par quart-temps et sur le match complet et de les imprimer en pdf.
+
+Il permet également de publier le suivi des actions en temps réel sur un site externe.
+
+Il manque pas mal de fonctionnalités comme le suivi de temps de jeu des joueurs,
+la possibilité d'ajouter une prolongation en fin de rencontre...
+
+Pour fonctionner, il nécessite un serveur web, php 5.2.x minimum et MySql.
